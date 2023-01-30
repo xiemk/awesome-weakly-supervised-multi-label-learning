@@ -10,12 +10,12 @@
 - **Tables use alphabetical order for fairness.**
 
 ## Contents
-- [Papers](#papers)
-	- [Multi-Label Learning with Missing (Partial) Labels](#papers-mlml)
-	- [Single Positive Multi-Label Learning](#papers-spml)
-	- [Partial Multi-Label Learning](#papers-pml)
-	- [Multi-Label Learning with Noisy Labels](#papers-mllnl)
-	- [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl)
+
+- [Multi-Label Learning with Missing (Partial) Labels](#papers-mlml)
+- [Single Positive Multi-Label Learning](#papers-spml)
+- [Partial Multi-Label Learning](#papers-pml)
+- [Multi-Label Learning with Noisy Labels](#papers-mllnl)
+- [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl)
 	
 
 <a name="papers-mlml"></a>
