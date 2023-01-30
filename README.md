@@ -78,7 +78,7 @@
 
 - [A Patch-Based Architecture for Multi-Label Classification from Single Label Annotations](https://arxiv.org/pdf/2209.06530.pdf). Warren Jouanneau, Aurélie Bugeau, Marc Palyart, Nicolas Papadakis, Laurent Vézard. (**arXiv 2022**).
 
-<a name="papers-mlzsl"></a>
+<a name="papers-pml"></a>
 ## Partial Multi-Label Learning
 
 - [A Deep Model for Partial Multi-Label Image Classification with Curriculum Based Disambiguation.](http://www.xiemk.pro/publication/arxiv-cdcr-preprint.pdf). Feng Sun, Ming-Kun Xie, and Sheng-Jun Huang. (**arXiv 2022**).
