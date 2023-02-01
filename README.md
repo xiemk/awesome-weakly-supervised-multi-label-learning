@@ -7,7 +7,7 @@
 **Note that:**
 - **This list only contains deep methods.**
 - **This list is not exhaustive.**
-- **Tables use alphabetical order for fairness.**
+- **Papers use alphabetical order for fairness.**
 
 ## Contents
 
@@ -15,7 +15,8 @@
 - [Single Positive Multi-Label Learning](#papers-spml)
 - [Partial Multi-Label Learning](#papers-pml)
 - [Multi-Label Learning with Noisy Labels](#papers-mllnl)
-- [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl)
+- [Other Settings](#paper-other)
+<!-- - [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl) -->
 	
 
 <a name="papers-mlml"></a>
@@ -98,10 +99,12 @@
 
 - [Learning from Noisy Labels with Noise Modeling Network](https://arxiv.org/pdf/2005.00596.pdf). Zhuolin Jiang, Jan Silovsky, Man-Hung Siu, William Hartmann, Herbert Gish, Sancar Adali. (**arXiv 2020**).
   
+<a name="papers-other"></a>
+## Other Settings
 
+- [Multi-label Iterated Learning for Image Classification with Label Ambiguity](https://openaccess.thecvf.com/content/CVPR2022/papers/Rajeswar_Multi-Label_Iterated_Learning_for_Image_Classification_With_Label_Ambiguity_CVPR_2022_paper.pdf). Sai Rajeswar, Pau Rodríguez, Soumye Singhal, David Vazquez, Aaron Courville. (**CVPR 2022**).
 
-
-<a name="papers-mlzsl"></a>
+<!-- <a name="papers-mlzsl"></a>
 ## Multi-Label Zero/Few-Shot Learning
 
 #### 2023
@@ -118,7 +121,7 @@
   
 - [Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition](https://arxiv.org/pdf/2009.09450.pdf). Tianshui Chen, Liang Lin, Riquan Chen, Xiaolu Hui, Hefeng Wu. (**TPAMI 2020**). [[Code]](https://github.com/Alibaba-MIIL/ZS_SDL).
 
-- [Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge](https://www.bmvc2020-conference.com/assets/papers/0249.pdf). He Huang, Yuanwei Chen, Wei Tang, Wenhao Zheng, Qing-Guo Chen, Philip Yu. (**BMCV 2020**). [[Code]](https://github.com/stevehuanghe/multi_label_zsl).
+- [Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge](https://www.bmvc2020-conference.com/assets/papers/0249.pdf). He Huang, Yuanwei Chen, Wei Tang, Wenhao Zheng, Qing-Guo Chen, Philip Yu. (**BMCV 2020**). [[Code]](https://github.com/stevehuanghe/multi_label_zsl). -->
 
 
 
