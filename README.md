@@ -11,14 +11,12 @@
 
 ## Contents
 
-- [Awesome Weakly-Supervised Multi-Label Learning List](#awesome-weakly-supervised-multi-label-learning-list)
-  - [Multi-Label Learning with Missing (Partial) Labels (MLML)](#multi-label-learning-with-missing-partial-labels-mlml)
-  - [Single Positive Multi-Label Learning (SPML)](#single-positive-multi-label-learning)
-  - [Partial Multi-Label Learning (PML)](#partial-multi-label-learning)
-  - [Multi-Label Learning with Noisy Labels (MLNL)](#multi-label-learning-with-noisy-labels)
-  - [Other Settings](#other-settings)
-  <!-- - [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl) -->
-
+- [Multi-Label Learning with Missing (Partial) Labels (MLML)](#multi-label-learning-with-missing-partial-labels-mlml)
+- [Single Positive Multi-Label Learning (SPML)](#single-positive-multi-label-learning)
+- [Partial Multi-Label Learning (PML)](#partial-multi-label-learning)
+- [Multi-Label Learning with Noisy Labels (MLNL)](#multi-label-learning-with-noisy-labels)
+- [Other Settings](#other-settings)
+<!-- - [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl) -->
 
 <a name="papers-mlml"></a>
 
