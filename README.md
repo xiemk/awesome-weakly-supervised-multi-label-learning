@@ -84,7 +84,7 @@
 
 
 <a name="papers-ssmll"></a>
-## Semi-Supervised Multi-Label Learning (PML)
+## Semi-Supervised Multi-Label Learning (SSMLL)
 
 - [Class-Distribution-Aware Pseudo Labeling for Semi-Supervised Multi-Label Learning.](https://arxiv.org/pdf/2305.02795.pdf). Ming-Kun Xie, Jia-Hao Xiao, Hao-Zhe Liu, Gang Niu, Masashi Sugiyama, Sheng-Jun Huang. (**NeurIPS 2023**). [[Code]](https://github.com/milkxie/SSMLL-CAP).
   
