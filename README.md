@@ -13,13 +13,13 @@
 
 - [Multi-Label Learning with Missing (Partial) Labels (MLML)](#multi-label-learning-with-missing-partial-labels-mlml)
 - [Single Positive Multi-Label Learning (SPML)](#single-positive-multi-label-learning)
+- [Semi-Supervised Multi-Label Learning (SPML)](#semi-supervised-multi-label-learning)
 - [Partial Multi-Label Learning (PML)](#partial-multi-label-learning)
 - [Multi-Label Learning with Noisy Labels (MLNL)](#multi-label-learning-with-noisy-labels)
 - [Other Settings](#other-settings)
-<!-- - [Multi-Label Zero/Few-Shot Learning](#papers-mlzsl) -->
+
 
 <a name="papers-mlml"></a>
-
 ## Multi-Label Learning with Missing (Partial) Labels (MLML)
 
 #### 2023
@@ -36,8 +36,6 @@
 - [Robust Recurrent Classifier Chains for Multi-Label Learning with Missing Labels](https://dspace.mit.edu/bitstream/handle/1721.1/146499/3511808.3557438.pdf?sequence=1&isAllowed=y). Walter Gerych, Thomas Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke Rundensteiner. (**CIKM 2022**).
 - [Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/20105). Tao Pu, Tianshui Chen, Hefeng Wu, Liang Lin. (**AAAI 2022**). [[Code]](https://github.com/HCPLab-SYSU/HCP-MLR-PL).
 - [Structured Semantic Transfer for Multi-Label Recognition with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/19910). Tianshui Chen, Tao Pu, Hefeng Wu, Yuan Xie, Liang Lin. (**AAAI 2022**). [[Code]](https://github.com/HCPLab-SYSU/HCP-MLR-PL).
-
-
 - [Heterogeneous Semantic Transfer for Multi-label Recognition with Partial Labels](https://openreview.net/pdf?id=QnajmHkhegH). Tianshui Chen, Tao Pu, Lingbo Liu, Yukai Shi, Zhijing Yang, Liang Lin. (**arXiv 2022**).
   
 #### 2021
@@ -61,6 +59,7 @@
 #### 2016
 - [Multi-label Ranking from Positive and Unlabeled Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kanehira_Multi-Label_Ranking_From_CVPR_2016_paper.pdf). Atsushi Kanehira, and Tatsuya Harada. (**CVPR 2016**).
 
+
 <a name="papers-spml"></a>
 ## Single Positive Multi-Label Learning (SPML)
 
@@ -83,8 +82,16 @@
 
 - [Multi-Label Learning from Single Positive Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Cole_Multi-Label_Learning_From_Single_Positive_Labels_CVPR_2021_paper.pdf). Elijah Cole, Oisin Mac Aodha, Titouan Lorieul, Pietro Perona, Dan Morris, Nebojsa Jojic. (**CVPR 2021**). [[Code]](https://github.com/elijahcole/single-positive-multi-label).
 
-<a name="papers-pml"></a>
 
+<a name="papers-ssmll"></a>
+## Semi-Supervised Multi-Label Learning (PML)
+
+- [Class-Distribution-Aware Pseudo Labeling for Semi-Supervised Multi-Label Learning.](https://arxiv.org/pdf/2305.02795.pdf). Ming-Kun Xie, Jia-Hao Xiao, Hao-Zhe Liu, Gang Niu, Masashi Sugiyama, Sheng-Jun Huang. (**NeurIPS 2023**). [[Code]](https://github.com/milkxie/SSMLL-CAP).
+  
+- [Dual Relation Semi-Supervised Multi-Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6089). Lichen Wang, Yunyu Liu, Can Qin, Gan Sun, Yun Fu. (**AAAI 2020**).
+
+
+<a name="papers-pml"></a>
 ## Partial Multi-Label Learning (PML)
 
 - [A Deep Model for Partial Multi-Label Image Classification with Curriculum Based Disambiguation.](http://www.xiemk.pro/publication/arxiv-cdcr-preprint.pdf). Feng Sun, Ming-Kun Xie, and Sheng-Jun Huang. (**arXiv 2022**).
