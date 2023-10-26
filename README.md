@@ -5,26 +5,29 @@
 > A curated list of papers & resources related to weakly supervised multi-label learning, including multi-label learning with missing labels, single positive multi-label learning, partial multi-label learning, and multi-label learning with noisy labels.
 
 **Note that:**
-- **This list only contains deep methods.**
+- **This list only contains deep learning based methods.**
 - **This list is not exhaustive.**
 - **Papers use alphabetical order for fairness.**
 
 ## Contents
 
-- [Multi-Label Learning with Missing (Partial) Labels (MLML)](#multi-label-learning-with-missing-partial-labels-mlml)
-- [Single Positive Multi-Label Learning (SPML)](#single-positive-multi-label-learning)
-- [Semi-Supervised Multi-Label Learning (SPML)](#semi-supervised-multi-label-learning)
-- [Partial Multi-Label Learning (PML)](#partial-multi-label-learning)
+- [Multi-Label Learning with Missing (Partial) Labels (MLML)](#papers-mlml)
+- [Single Positive Multi-Label Learning (SPML)](#paper-spml)
+- [Semi-Supervised Multi-Label Learning (SSMLL)](#papers-ssmll)
+- [Partial Multi-Label Learning (PML)](#papers-pml)
 - [Multi-Label Learning with Noisy Labels (MLNL)](#multi-label-learning-with-noisy-labels)
-- [Other Settings](#other-settings)
+- [Other Settings](#papers-other)
+
 
 
 <a name="papers-mlml"></a>
+
 ## Multi-Label Learning with Missing (Partial) Labels (MLML)
 
 #### 2023
 
-- [Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels](https://arxiv.org/pdf/2303.13223.pdf). Zixuan Ding, Ao Wang, Hui Chen, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han. (**arXiv 2023**).
+- [Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf). Zixuan Ding, Ao Wang, Hui Chen, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han. [[Code]](https://github.com/jameslahm/SCPNet) (**CVPR 2023**).
+- [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf). Rabab Abdelfattah, Qing Guo, Xiaoguang Li, Xiaofeng Wang, and Song Wang. [[Code]]()
 
 #### 2022
 
@@ -112,13 +115,19 @@
   
 
 <a name="papers-other"></a>
+
 ## Other Settings
 
-- [Multi-label Iterated Learning for Image Classification with Label Ambiguity](https://openaccess.thecvf.com/content/CVPR2022/papers/Rajeswar_Multi-Label_Iterated_Learning_for_Image_Classification_With_Label_Ambiguity_CVPR_2022_paper.pdf). Sai Rajeswar, Pau Rodríguez, Soumye Singhal, David Vazquez, Aaron Courville. (**CVPR 2022**).
+#### 2023
+
+- [Multi-Label Knowledge Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Multi-Label_Knowledge_Distillation_ICCV_2023_paper.pdf). Penghui Yang, Ming-Kun Xie, Chen-Chen Zong, Lei Feng, Gang Niu, Masashi Sugiyama, Sheng-Jun Huang(**ICCV 2023**). [[Code]](https://github.com/penghui-yang/L2D).
 
 - [Self-Supervised Pyramid Representation Learning for Multi-Label Visual Analysis and Beyond](https://openaccess.thecvf.com/content/WACV2023/papers/Hsieh_Self-Supervised_Pyramid_Representation_Learning_for_Multi-Label_Visual_Analysis_and_Beyond_WACV_2023_paper.pdf). Cheng-Yen Hsieh∗ Chih-Jung Chang∗ Fu-En Yang Yu-Chiang Frank Wang. (**WACV 2023**). [[Code]](https://github.com/WesleyHsieh0806/SS-PRL).
 
-- [MC-SSL0.0: Towards Multi-Concept Self-Supervised Learning](https://arxiv.org/pdf/2111.15340.pdf). Sara Atito, Muhammad Awais, Ammarah Farooq, Zhenhua Feng, Josef Kittler. (**arXiv 2021**).
+#### 2022
+
+- [Multi-label Iterated Learning for Image Classification with Label Ambiguity](https://openaccess.thecvf.com/content/CVPR2022/papers/Rajeswar_Multi-Label_Iterated_Learning_for_Image_Classification_With_Label_Ambiguity_CVPR_2022_paper.pdf). Sai Rajeswar, Pau Rodríguez, Soumye Singhal, David Vazquez, Aaron Courville. (**CVPR 2022**).
+
 
 
 
