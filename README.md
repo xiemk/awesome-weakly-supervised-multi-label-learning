@@ -12,7 +12,7 @@
 ## Contents
 
 - [Multi-Label Learning with Missing (Partial) Labels (MLML)](#papers-mlml)
-- [Single Positive Multi-Label Learning (SPML)](#paper-spml)
+- [Single Positive Multi-Label Learning (SPML)](#papers-spml)
 - [Semi-Supervised Multi-Label Learning (SSMLL)](#papers-ssmll)
 - [Partial Multi-Label Learning (PML)](#papers-pml)
 - [Multi-Label Learning with Noisy Labels (MLNL)](#multi-label-learning-with-noisy-labels)
@@ -62,15 +62,20 @@
 #### 2016
 - [Multi-label Ranking from Positive and Unlabeled Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kanehira_Multi-Label_Ranking_From_CVPR_2016_paper.pdf). Atsushi Kanehira, and Tatsuya Harada. (**CVPR 2016**).
 
-
 <a name="papers-spml"></a>
+
 ## Single Positive Multi-Label Learning (SPML)
 
 #### 2023
 
-- [Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification](https://arxiv.org/pdf/2304.01804.pdf). Youngwook Kim, Jae Myung Kim, Jieun Jeong, Cordelia Schmid, Zeynep Akata, and Jungwoo Lee. (**CVPR 2023**). [[Code]](https://github.com/youngwk/BridgeGapExplanationPAMC).
+- [Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification](https://arxiv.org/pdf/2304.01804.pdf). Youngwook Kim, Jae Myung Kim, Jieun Jeong, Cordelia Schmid, Zeynep Akata, Jungwoo Lee. (**CVPR 2023**). [[Code]](https://github.com/youngwk/BridgeGapExplanationPAMC).
+- [Revisiting Pseudo-Label for Single-Positive Multi-Label Learning](https://openreview.net/forum?id=wPn3W55oiU). Biao Liu, Ning Xu, Jiaqi Lv, Xin Geng. (**ICML 2023**).
+- [Semantic Contrastive Bootstrapping for Single-Positive Multi-label Recognition](https://arxiv.org/pdf/2307.07680.pdf). Cheng Chen, Yifan Zhao, Jia Li. (**IJCV**). [[Code]](https://github.com/iCVTEAM/Scob).
 - [Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations](https://openaccess.thecvf.com/content/WACV2023/papers/Verelst_Spatial_Consistency_Loss_for_Training_Multi-Label_Classifiers_From_Single-Label_Annotations_WACV_2023_paper.pdf). Thomas Verelst, Paul K. Rubenstein, Marcin Eichner, Tinne Tuytelaars, Maxim Berman. (**WACV 2023**). [[Code]](https://github.com/CASIA-IVA-Lab/Obj2Seq).
+- [Can Class-Priors Help Single-Positive Multi-Label Learning?](https://arxiv.org/pdf/2309.13886). Biao Liu, Jie Wang, Ning Xu, Xin Geng. (**arXiv 2023**). 
 - [Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels](https://arxiv.org/pdf/2302.14695.pdf). Xiang Li, Xinrui Wang, Songcan Chen. (**arXiv 2023**). 
+- [Towards Diverse Temporal Grounding under Single Positive Labels](https://arxiv.org/pdf/2303.06545.pdf). Hao Zhou, Chongyang Zhang, Yanjun Chen, Chuanping Hu. (**arXiv 2023**). 
+- [Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning.](https://arxiv.org/pdf/2310.15985.pdf) Xin Xing, Zhexiao Xiong, Abby Stylianou, Srikumar Sastry, Liyu Gong, Nathan Jacobs. (**arXiv 2023**). [[Code]](https://github.com/mvrl/VLPL)
 
 #### 2022
 
@@ -89,8 +94,8 @@
 <a name="papers-ssmll"></a>
 ## Semi-Supervised Multi-Label Learning (SSMLL)
 
-- [Class-Distribution-Aware Pseudo Labeling for Semi-Supervised Multi-Label Learning.](https://arxiv.org/pdf/2305.02795.pdf). Ming-Kun Xie, Jia-Hao Xiao, Hao-Zhe Liu, Gang Niu, Masashi Sugiyama, Sheng-Jun Huang. (**NeurIPS 2023**). [[Code]](https://github.com/milkxie/SSMLL-CAP).
-  
+- [Class-Distribution-Aware Pseudo Labeling for Semi-Supervised Multi-Label Learning.](https://arxiv.org/pdf/2305.02795.pdf) Ming-Kun Xie, Jia-Hao Xiao, Hao-Zhe Liu, Gang Niu, Masashi Sugiyama, Sheng-Jun Huang. (**NeurIPS 2023**). [[Code]](https://github.com/milkxie/SSMLL-CAP).
+- [Conditional consistency regularization for semi-supervised multi-label image classification.](https://ieeexplore.ieee.org/abstract/document/10283961) Zhengning Wu, Tianyu He, Xiaobo Xia, Jun Yu, Xu Shen, Tongliang Liu. (**TMM**).
 - [Dual Relation Semi-Supervised Multi-Label Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6089). Lichen Wang, Yunyu Liu, Can Qin, Gan Sun, Yun Fu. (**AAAI 2020**).
 
 
