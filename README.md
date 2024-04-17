@@ -26,6 +26,7 @@
 
 #### 2023
 
+- [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf). Rabab Abdelfattah, Qing Guo, Xiaoguang Li, Xiaofeng Wang, and Song Wang. [[Code]](https://github.com/jameslahm/SCPNet) (**CVPR 2023**).
 - [Exploring Structured Semantic Prior for Multi Label Recognition with Incomplete Labels](https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Exploring_Structured_Semantic_Prior_for_Multi_Label_Recognition_With_Incomplete_CVPR_2023_paper.pdf). Zixuan Ding, Ao Wang, Hui Chen, Qiang Zhang, Pengzhang Liu, Yongjun Bao, Weipeng Yan, Jungong Han. [[Code]](https://github.com/jameslahm/SCPNet) (**CVPR 2023**).
 - [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Abdelfattah_CDUL_CLIP-Driven_Unsupervised_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf). Rabab Abdelfattah, Qing Guo, Xiaoguang Li, Xiaofeng Wang, and Song Wang. [[Code]]()
 
@@ -72,6 +73,7 @@
 - [Revisiting Pseudo-Label for Single-Positive Multi-Label Learning](https://openreview.net/forum?id=wPn3W55oiU). Biao Liu, Ning Xu, Jiaqi Lv, Xin Geng. (**ICML 2023**).
 - [Semantic Contrastive Bootstrapping for Single-Positive Multi-label Recognition](https://arxiv.org/pdf/2307.07680.pdf). Cheng Chen, Yifan Zhao, Jia Li. (**IJCV**). [[Code]](https://github.com/iCVTEAM/Scob).
 - [Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations](https://openaccess.thecvf.com/content/WACV2023/papers/Verelst_Spatial_Consistency_Loss_for_Training_Multi-Label_Classifiers_From_Single-Label_Annotations_WACV_2023_paper.pdf). Thomas Verelst, Paul K. Rubenstein, Marcin Eichner, Tinne Tuytelaars, Maxim Berman. (**WACV 2023**). [[Code]](https://github.com/CASIA-IVA-Lab/Obj2Seq).
+- [Spatial Implicit Neural Representations for Global-Scale Species Mapping](https://proceedings.mlr.press/v202/cole23a/cole23a.pdf). Elijah Cole, Grant Van Horn, Christian Lange, Alexander Shepard, Patrick Leary, Pietro Perona, Scott Loarie, Oisin Mac Aodha. (**ICML 2023**). [[GitHub]](https://github.com/elijahcole/sinr).
 - [Can Class-Priors Help Single-Positive Multi-Label Learning?](https://arxiv.org/pdf/2309.13886). Biao Liu, Jie Wang, Ning Xu, Xin Geng. (**arXiv 2023**). 
 - [Pushing One Pair of Labels Apart Each Time in Multi-Label Learning: From Single Positive to Full Labels](https://arxiv.org/pdf/2302.14695.pdf). Xiang Li, Xinrui Wang, Songcan Chen. (**arXiv 2023**). 
 - [Towards Diverse Temporal Grounding under Single Positive Labels](https://arxiv.org/pdf/2303.06545.pdf). Hao Zhou, Chongyang Zhang, Yanjun Chen, Chuanping Hu. (**arXiv 2023**). 
